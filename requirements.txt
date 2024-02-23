@@ -1,0 +1,3 @@
+pandas==2.2.0
+pygwalker == 0.4.6
+streamlit ==1.29.0
