@@ -14,3 +14,8 @@ You can install PygWalker via pip:
 
 ```bash
 pip install pygwalker
+```
+
+## Demo
+[streamlit-app-2024-02-29-02-02-08.webm](https://github.com/figo2001/Pygwalker/assets/78696850/3e2c3d46-7379-46ba-9330-e0bb3db0d9e4)
+
